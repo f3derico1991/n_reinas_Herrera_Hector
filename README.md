@@ -11,7 +11,7 @@
 ## 1. Planteo del problema <a name="id1"></a>
 ### Consigna: Generar un programa en lenguaje de programacion python que a partir de un parametro definido por el usuario de N reinas, coloque estas n reinas en un tablero de NxN de tal forma que no se puedan comer entre si.
 #### Ejemplo: *posible manera en que podrian disponerse 5 reinas en un tablero de 5x5*:
-<img src="http://3.bp.blogspot.com/-Y8VpTAhyJhE/Tq98sLyw1wI/AAAAAAAAAaw/EsLtujhhet8/s1600/CincoReinas.png" width=300 height=300>:
+<img src="https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/imagenes/CincoReinas.png" width=300 height=300>:
 
 ## 2. Patron de diseño <a name="id2"></a>
 Texto del segundo apartado
@@ -22,5 +22,5 @@ Texto del segundo apartado
 ## 4. Documentacion de lo codificado <a name="id4"></a>
 Planteado el problema, a continuacion una breve explicacion sobre la logica que se intentara seguir para resolver el mismo.
 
-## 5. Documentacion de lo codificado <a name="id5"></a>
+## 5. Codigo en Python de la resolucion: <a name="id5"></a>
 Codigo [Algoritmo N-reinas](https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/Herrera_Hector.py)
