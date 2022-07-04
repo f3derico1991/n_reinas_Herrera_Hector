@@ -1,1 +1,1 @@
-# n_reinas_Herrera_Hector
+*2ª Parcial Programacion avanzada*
