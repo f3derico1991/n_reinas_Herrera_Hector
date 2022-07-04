@@ -86,7 +86,7 @@ class N_reinas:
 # In[4]:
 
 
-test_uno = N_reinas(5,)
+test_uno = N_reinas(5,10)
 test_uno.gen_pob_inicial()
 test_uno.fitness()
 test_uno.mostrar_res()
