@@ -1,16 +1,16 @@
 # *2ª Parcial Programacion avanzada*
 ## Algoritmo Genetico N-Reinas
-### *Alumno:* Herrera Hector Federico
+### Alumno: *Herrera Hector Federico*
 
 1. [Planteo del problema](#id1)
-2. [Segundo apartado](#id2)
+2. [Patron de diseño](#id2)
 3. [Diagrama de UML](#id3)
 4. [Documentacion de lo codificado](#id4)
-5. [publicacion del codigo](#id5)
+5. [Publicacion del codigo](#id5)
 
 ## 1. Planteo del problema <a name="id1"></a>
 ### Consigna: Generar un programa en lenguaje de programacion python que a partir de un parametro definido por el usuario de N reinas, coloque estas n reinas en un tablero de NxN de tal forma que no se puedan comer entre si.
-#### Ejemplo de un posible manera en que podrian disponerse 5 reinas en un tablero de 5x5:
+#### Ejemplo: *posible manera en que podrian disponerse 5 reinas en un tablero de 5x5*:
 <img src="http://3.bp.blogspot.com/-Y8VpTAhyJhE/Tq98sLyw1wI/AAAAAAAAAaw/EsLtujhhet8/s1600/CincoReinas.png" width=300 height=300>:
 
 ## 2. Patron de diseño <a name="id2"></a>
