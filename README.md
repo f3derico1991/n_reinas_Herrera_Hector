@@ -22,7 +22,7 @@ Para este punto en particular no fue posible encontrar un patron que de correspo
 <img src="https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/imagenes/2022-07-04-10-51-app.diagrams.net.png" width=300 height=300>:
 
 ## 4. Documentacion de lo codificado <a name="id4"></a>
- ### Explicacion de la logica del algoritmo elaborado:
+ ### Explicacion de la lógica del algoritmo elaborado:
  #### Aclaraciones:
  - Individuo: Estara compuesta de n_pob_ini individuos lo que resulta en una la lista de listas.
  - Poblacion: Sera representado por una lista con valores de 0 a n_reinas, estos valores seran únicos y estaran ordenados de manera aleatoria dentro de la lista. Por ejemplo un posible individuo para un caso de 5 reinas podria ser [4,2,0,1,3].
