@@ -17,7 +17,7 @@
 Texto del segundo apartado
 
 ## 3. Diagrama de UML <a name="id3"></a>
-Texto del tercer apartado
+<img src="https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/imagenes/2022-07-04-10-51-app.diagrams.net.png" width=300 height=300>:
 
 ## 4. Documentacion de lo codificado <a name="id4"></a>
 Planteado el problema, a continuacion una breve explicacion sobre la logica que se intentara seguir para resolver el mismo.
