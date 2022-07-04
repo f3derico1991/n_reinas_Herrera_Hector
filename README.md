@@ -16,7 +16,7 @@ _Ejemplo: Posible manera en que podrian disponerse 5 reinas en un tablero de 5x5
 <img src="https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/imagenes/CincoReinas.png" width=300 height=300>:
 
 ## 2. Patron de diseño <a name="id2"></a>
-Para este punto en particular no fue posible encontrar un patron que de correspondiera al porgrama elaborado. 
+Para este punto en particular no fue posible encontrar un patron que de correspondiera al porgrama elaborado. Considero que quizas _Chain of Responsibility_ podria haberse adaptado.
 
 ## 3. Diagrama de UML <a name="id3"></a>
 <img src="https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/imagenes/2022-07-04-10-51-app.diagrams.net.png" width=300 height=300>:
