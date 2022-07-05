@@ -45,4 +45,4 @@ Para este punto en particular no fue posible encontrar un patron que de correspo
 ## 5. Codigo en Python de la resolucion: <a name="id5"></a>
 El siguiente link redirecciona al codigo:
 
-[Algoritmo en Python de N-reinas](https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/Herrera_Hector.py)
+[Algoritmo en Python de N-reinas](https://github.com/f3derico1991/n_reinas_Herrera_Hector/blob/main/N_reinas_Herrea_hector/2do_parcial_programacion_avanzada.py)
